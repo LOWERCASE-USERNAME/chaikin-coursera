@@ -28,3 +28,8 @@ section h3{
 	background-color: gray;
 	font-weight: light;
 }
+@media (min-width: 768) {
+.menu{
+	color: #212529;
+} 
+}
