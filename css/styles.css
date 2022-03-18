@@ -10,12 +10,11 @@ body{
 	font-size: 2em;
 	color: black;
 	font-weight: bold;
-	margin-left: -60px;
+
 }
 navbar-brand:hover, navbar-brand:focus{
 	text-decoration: none;
 }
-
 /*HEADER end*/
 h2{
 	margin-top: 20px;
