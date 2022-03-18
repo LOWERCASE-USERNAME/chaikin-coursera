@@ -1,0 +1,35 @@
+body{
+	font-family: 'Fredoka', sans-serif;
+	font-size: 16px;
+}
+/*HEADER*/
+#header-nav{
+	background-color: lightgray;
+}
+.navbar-brand{
+	font-size: 2em;
+	color: black;
+	font-weight: bold;
+
+}
+navbar-brand:hover, navbar-brand:focus{
+	text-decoration: none;
+}
+/*HEADER end*/
+h2{
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+section h3{
+	font-size: 1.2em;
+	text-align: center;
+}
+.dish-description{
+	background-color: gray;
+	font-weight: light;
+}
+@media (min-width: 768) {
+.menu{
+	color: #212529;
+} 
+}
