@@ -28,8 +28,8 @@ section h3{
 	background-color: gray;
 	font-weight: light;
 }
-@media (min-width: 768) {
-.menu{
-	color: #212529;
+@media (min-width: 768px) {
+#menu1, #menu2, #menu3{
+	visibility: hidden;
 } 
 }
